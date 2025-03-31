@@ -17,7 +17,7 @@ app.add_middleware(
 )
 
 
-AIPROXY_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIzZjMwMDIwOTFAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.COZ_4kVMSwz0jqlAlTFV9wWqiYtOGiai4Qu3wqZW1gA"
+AIPROXY_TOKEN = "***"
 
 BASE_DIR = "/app/data"
 
